@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="vert_philidor">#FF1E7A4F</color>
+    <color name="vert_clair">#FFE3F2EA</color>
+    <color name="texte_principal">#FF1B2430</color>
+    <color name="texte_secondaire">#FF6B7280</color>
 </resources>
